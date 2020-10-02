@@ -1,2 +1,2 @@
 # bbrown_hacktober2020
-This is a test repo for hacktober!
+You got hacked! Drink up.
